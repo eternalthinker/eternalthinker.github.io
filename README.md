@@ -1,3 +1,1 @@
-# blog.eternal-thinker.com/
-
-*Moving to Jekyll*
+# code.eternalthinker.co/
